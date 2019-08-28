@@ -27,7 +27,7 @@ any dates which that group has posted as the date for their monthly meeting.
 | 2019 Sep 14 | 9:30 - 11:30am |                   |             |
 | 2019 Oct 05 | 9:30 - 11:30am |                   |             |
 | 2019 Oct 12 | 9:30 - 11:30am |                   |             |
-| 2019 Oct 26 | 9:30 - 11:30am |                   |             |
+| 2019 Oct 26 | 9:30 - 11:30am | [Jason A. Grafft](https://grafft.co/) | |
 | 2019 Nov 02 | 9:30 - 11:30am |                   |             |
 | 2019 Nov 09 | 9:30 - 11:30am |                   |             |
 | 2019 Nov 23 | 9:30 - 11:30am |                   |             |
